@@ -1,0 +1,8 @@
+numpy
+ipywidgets
+nbinteract
+matplotlib
+yfinance
+pandas
+datetime
+math

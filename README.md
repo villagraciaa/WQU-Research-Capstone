@@ -1,2 +1,2 @@
-# WQU Research Capstone
- Villagracia
+# VIllagracia-Model
+ WQU Research Capstone
